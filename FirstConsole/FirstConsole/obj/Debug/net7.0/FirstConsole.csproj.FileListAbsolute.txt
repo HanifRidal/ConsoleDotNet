@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\bin\Debug\net7.0\FirstConsole.exe
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\bin\Debug\net7.0\FirstConsole.deps.json
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\bin\Debug\net7.0\FirstConsole.runtimeconfig.json
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\bin\Debug\net7.0\FirstConsole.dll
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\bin\Debug\net7.0\FirstConsole.pdb
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\FirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\FirstConsole.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\FirstConsole.AssemblyInfo.cs
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\FirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\FirstConsole.dll
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\refint\FirstConsole.dll
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\FirstConsole.pdb
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\FirstConsole.genruntimeconfig.cache
+C:\Users\asus\source\repos\FirstConsole\FirstConsole\obj\Debug\net7.0\ref\FirstConsole.dll
