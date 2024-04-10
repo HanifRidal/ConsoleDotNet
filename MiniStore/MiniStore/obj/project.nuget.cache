@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3np3da7LlpAC8gAh3vI3ZeQF5ueOut2Fz9tuSHXTbmSwR5pY9T6wmMrvslZbAknxn3onDytTXYEjppvjNwdWyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROG STRIX\\source\\repos\\MiniStore\\MiniStore\\MiniStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG STRIX\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
