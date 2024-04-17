@@ -10,7 +10,7 @@ namespace PointOfSales.Models.Domain
         [Key]
         public Guid ProdukId { get; set; } 
         [StringLength(50)]
-        public string? Name { get; set; } //null-forgiving op.
+        public string Name { get; set; } //null-forgiving op.
         [StringLength(1000)]
         public string Description { get; set; }
         public double Price { get; set; }

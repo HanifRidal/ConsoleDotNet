@@ -48,7 +48,7 @@ namespace PointOfSales.Controllers
         // GET: Produks/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId");
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Name", "Name");
             return View();
         }
 
