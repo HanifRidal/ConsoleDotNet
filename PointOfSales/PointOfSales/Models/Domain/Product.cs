@@ -15,6 +15,6 @@ namespace PointOfSales.Models.Domain
         public int CategoryId { get; set; }
 
         //[ForeignKey("Category")]
-        public virtual Category Category { get; set; }
+        public virtual Category? Category { get; set; }
     }
 }
